@@ -4,6 +4,7 @@ Data Science Mentorship Program is a detail mentorship program offered by #campu
 <h2><li>Fundamentals of Python</li></h2>
   <ul>
     <li><a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Weak%201%20(Basics%20of%20Python%20Programming)'>Weak 1 (Basics of Python Programming)</a></li>
+    <li><a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Weak%202%20(Python%20Data%20Types)'>Weak 2 (Python Data types)</a></li>
   </ul>
 <h2><li>OOP(Object Oriented Programming)</li></h2>
 <h2><li>Advanced Python</li></h2>
