@@ -7,5 +7,13 @@ Data Science Mentorship Program is a detail mentorship program offered by #campu
     <li><a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Weak%202%20(Python%20Data%20Types)'>Weak 2 (Python Data types)</a></li>
   </ul>
 <h2><li>OOP(Object Oriented Programming)</li></h2>
+  <ul>
+  <li><a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%203%20(Object%20Oriented%20Programming)(OOP)'>Week 3 (Object Oriented Programming (OOP))</a></li>
+  </ul>
 <h2><li>Advanced Python</li></h2>
+  <ul>
+    <li>
+      <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%204%20(Advanced%20Python)'>Week 4 (Advanced Python)</a>
+    </li>
+  </ul>
 </0l>
