@@ -27,5 +27,6 @@ Data Science Mentorship Program is a detail mentorship program offered by #campu
     <li>
       <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%206%20(Pandas)'>Week 6 (Pandas)</a>
     </li>
+    <li> <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%206%20(Pandas)/Flask'>Flask</a> </li>
   </ul>
 </0l>
