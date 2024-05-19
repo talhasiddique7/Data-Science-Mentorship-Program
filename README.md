@@ -21,12 +21,22 @@ Data Science Mentorship Program is a detail mentorship program offered by #campu
     <li>
       <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%205%20(Numpy)'>Week 5 (Numpy)</a>
     </li>
+    </li>
+    <li> <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%205%20(Numpy)/Web%20Development%20using%20Flask%20(nlp-web-app-master)'>Web Application using Flask</a> </li>
   </ul>
   <h2><li>Pandas</li></h2>
   <ul>
     <li>
-      <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%206%20(Pandas)'>Week 6 (Pandas)</a>
-    </li>
-    <li> <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%206%20(Pandas)/Flask'>Flask</a> </li>
+      <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%206%20(Pandas)'>Week 6 (Pandas)</a></li>
+  </ul>
+  <h2><li>Advanced Pandas</li></h2>
+  <ul>
+    <li> <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%207%20(Advanced%20Pandas)'>Week 7 (Advanced Pandas)</a></li>
+    <li> <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%207%20(Advanced%20Pandas)/Streamlit%20Basics/streamlit-basics-master'>Streamlit</a></li>
+    
   </ul>
 </0l>
+
+
+
+
