@@ -31,6 +31,7 @@ Data Science Mentorship Program is a detail mentorship program offered by #campu
   <h2><li>Advanced Pandas</li></h2>
   <ul>
     <li> <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%207%20(Advanced%20Pandas)'>Week 7 (Advanced Pandas)</a></li>
+    <li> <a href='https://github.com/talhasiddique7/Data-Science-Mentorship-Program/tree/main/Week%208%20(Advanced%20Pandas%20Continued)'>Week 8 (Advanced Pandas Continued)</a></li>
     
   </ul>
 
