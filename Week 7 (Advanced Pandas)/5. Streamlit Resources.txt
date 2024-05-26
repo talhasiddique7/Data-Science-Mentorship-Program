@@ -1,9 +1,0 @@
-Code - https://github.com/campusx-official/streamlit-basics
-Learn LaTeX - https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F
-
-Learn Markdown - https://www.markdownguide.org/basic-syntax/#images-1
-
-Streamlit docs - https://docs.streamlit.io/develop/api-reference
-Dataset link -https://www.kaggle.com/datasets/sudalairajkumar/indian-startup-funding
-
-Plan of Action - https://docs.google.com/document/d/1zk4751zmG2b4XnYGW06tu0MWyr2PgLlMaSci7eUVL2M/edit

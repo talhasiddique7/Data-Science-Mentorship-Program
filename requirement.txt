@@ -4,3 +4,4 @@ matplotlib
 seaborn
 Flask
 opencv-python
+streamlit
